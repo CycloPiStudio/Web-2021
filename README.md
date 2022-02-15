@@ -23,7 +23,7 @@ https://cyclopistudio.github.io/Web-2021/
 https://cyclopistudio.github.io/Web-2021/index.html
 
 
-https://cyclopistudio.github.io/Web-2021/desarrollo/html5-por/juego_multtijugador_tablero.html
+https://cyclopistudio.github.io/Web-2021/desarrollo/html5_por/juego_multtijugador_tablero.html
 
 
 
