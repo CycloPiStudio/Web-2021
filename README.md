@@ -24,7 +24,7 @@ https://cyclopistudio.github.io/Web-2021/index.html
 
 
 https://cyclopistudio.github.io/Web-2021/desarrollo/html5_por/ProyectoCliente.html
-
+https://cyclopistudio.github.io/Web-2021/desarrollo/html5_por/diagrama.html
 
 
 
